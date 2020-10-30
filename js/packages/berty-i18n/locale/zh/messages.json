@@ -1,9 +1,9 @@
 {
   "time": {
-    "fuzzy-time": "",
-    "fuzzy-month-day": "",
-    "fuzzy-year-month": "",
-    "datetime": "",
+    "fuzzy-time": "时:分",
+    "fuzzy-month-day": "月/日",
+    "fuzzy-year-month": "年/月",
+    "datetime": "年-月-时:分",
     "started-ago": ""
   },
   "onboarding": {

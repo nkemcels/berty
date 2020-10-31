@@ -1,13 +1,13 @@
 {
   "time": {
-    "fuzzy-time": "",
-    "fuzzy-month-day": "",
-    "fuzzy-year-month": "",
-    "datetime": "",
+    "fuzzy-time": "hh:mm",
+    "fuzzy-month-day": "dd/MM",
+    "fuzzy-year-month": "MM/YY",
+    "datetime": "MMM Tun YYYY hh:mm",
     "started-ago": "Vor {{date}} gestartet"
   },
   "onboarding": {
-    "getstarted": "",
+    "getstarted": "Die sichere Peer-to-Peer-Messaging-App, die mit oder ohne Internetzugang, Mobilfunkdaten oder Vertrauen in das Netzwerk funktioniert",
     "select-mode": {
       "performance": {
         "title": "Leistung",
@@ -15,18 +15,18 @@
         "push-notif": "Push-Benachrichtigungen erhalten",
         "offline-message": "Offline-Nachrichten",
         "add-contact": "Kontakte einfach hinzufügen",
-        "fast-message": ""
+        "fast-message": "Schnellste Nachrichtenlieferung"
       },
       "high-level": {
-        "title": "",
-        "desc": "",
-        "disable-push-notif": "",
-        "disable-local-peer-discovery": "",
-        "disable-contact-request": ""
+        "title": "Höchste Privatsphäre",
+        "desc": "Für fortgeschrittene Benutzer - Weniger Metadaten",
+        "disable-push-notif": "Push Benachrichtigungen deaktiviert",
+        "disable-local-peer-discovery": "Lokale Peer-Entdeckung deaktiviert",
+        "disable-contact-request": "Kontaktanfragen deaktiviert"
       }
     },
     "create-account": {
-      "title": "",
+      "title": "Ihr Konto erstellen",
       "desc": "",
       "required": "",
       "placeholder": "Name",

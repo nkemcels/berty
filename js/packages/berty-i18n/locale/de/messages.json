@@ -27,35 +27,35 @@
     },
     "create-account": {
       "title": "Ihr Konto erstellen",
-      "desc": "",
-      "required": "",
+      "desc": "Ein Spitzname ist die einzige erforderliche Information",
+      "required": "Erforderlich",
       "placeholder": "Name",
       "button": "MEIN KONTO ERSTELLEN"
     },
     "generate-key": {
       "title": "Starte den Berty Router…",
-      "desc": ""
+      "desc": "Dies könnte einige Sekunden dauern"
     },
     "notifications": {
-      "header": "",
+      "header": "Verpassen Sie keine neue Nachricht oder Kontaktanfrage",
       "recommended": "Empfohlen",
-      "title": "",
-      "desc": "",
-      "button": "",
-      "skip": ""
+      "title": "Benachrichtigungen",
+      "desc": "Du musst Push-Benachrichtigungen von Berty auf deinem Handy autorisieren",
+      "button": "BENACHRICHTIGUNGEN AUTHORIS",
+      "skip": "ÜBERSPRINGEN UND DIES SPÄTER TUN"
     },
     "bluetooth": {
-      "header": "",
-      "optional": "",
+      "header": "Kommunizieren ohne Internetverbindung (WiFi oder Daten), indem Sie Ihr Telefon direkt mit Kollegen in der Nähe verbinden",
+      "optional": "Fakultativ",
       "title": "Bluetooth",
-      "desc": "",
-      "button": "",
-      "skip": ""
+      "desc": "Um diese Funktion nutzen zu können, müssen Sie Bluetooth auf Ihrem Telefon autorisieren",
+      "button": "BLUETOOTH AUTORISIEREN",
+      "skip": "ÜBERSPRINGEN UND DIES SPÄTER TUN"
     },
     "setup-finished": {
-      "title": "",
-      "desc": "",
-      "button": ""
+      "title": "Einrichtung beendet!",
+      "desc": "Sie können jetzt die App benutzen, Kontakte hinzufügen und sich frei und privat mit ihnen unterhalten",
+      "button": "BERTY VERWENDEN"
     }
   },
   "main": {

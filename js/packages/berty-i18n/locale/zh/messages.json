@@ -4,45 +4,45 @@
     "fuzzy-month-day": "月/日",
     "fuzzy-year-month": "年/月",
     "datetime": "年-月-时:分",
-    "started-ago": ""
+    "started-ago": "开始于 {{date}} 之前"
   },
   "onboarding": {
-    "getstarted": "",
+    "getstarted": "安全的点对点消息应用程序，无论是否有互联网接入、蜂窝数据或网络信任",
     "select-mode": {
       "performance": {
-        "title": "",
-        "desc": "",
-        "push-notif": "",
-        "offline-message": "",
-        "add-contact": "",
-        "fast-message": ""
+        "title": "性能",
+        "desc": "简单使用 - 所有功能",
+        "push-notif": "接收新消息通知",
+        "offline-message": "离线消息",
+        "add-contact": "添加联系人",
+        "fast-message": "快速发送消息"
       },
       "high-level": {
-        "title": "",
-        "desc": "",
-        "disable-push-notif": "",
-        "disable-local-peer-discovery": "",
-        "disable-contact-request": ""
+        "title": "高级隐私",
+        "desc": "对于高级用户-更少的元数据",
+        "disable-push-notif": "已禁用新消息通知",
+        "disable-local-peer-discovery": "本地对等用户发现已禁用",
+        "disable-contact-request": "已禁用联系人请求"
       }
     },
     "create-account": {
-      "title": "",
-      "desc": "",
-      "required": "",
-      "placeholder": "",
-      "button": ""
+      "title": "创建您的帐户",
+      "desc": "名称是唯一需要的信息",
+      "required": "必需的",
+      "placeholder": "名称",
+      "button": "创建我的帐户"
     },
     "generate-key": {
-      "title": "",
-      "desc": ""
+      "title": "正在启动 Berty 节点…",
+      "desc": "这可能需要几秒钟"
     },
     "notifications": {
-      "header": "",
-      "recommended": "",
-      "title": "",
-      "desc": "",
-      "button": "",
-      "skip": ""
+      "header": "不错过任何新消息或联系请求",
+      "recommended": "推荐",
+      "title": "消息通知",
+      "desc": "您需要在您的手机上授权Berty 消息通知",
+      "button": "授权通知",
+      "skip": "跳过并稍后再做"
     },
     "bluetooth": {
       "header": "",
